@@ -7,6 +7,7 @@ body {
   width: 900px;
   height: 900px;
   background: url('http://jyloo.xyz/assets/img/background.png');
+  background-repeat: repeat-y;
   background-size: cover;
   margin: 0 auto;
   position: relative;
